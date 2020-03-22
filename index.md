@@ -5,9 +5,13 @@ subtitle: The union of the Ontario Science Centre staff
 use-site-title: true
 published: true
 ---
-Sunday, March 22, 2020
 
-Welcome!
+
+*Sunday, March 22, 2020*
+
+
+
+Welcome, members of Local 549
 
 How quickly times change!  We are all struggling to find ways to cope with this new situation. And some of us are struggling more: 
 - All food service workers have been laid off. Compass, the company that runs our cafeteria and food services, emailed the temporary lay-off notices on March 14.
@@ -49,5 +53,5 @@ How quickly times change!  We are all struggling to find ways to cope with this 
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU0MTM0ODVdfQ==
+eyJoaXN0b3J5IjpbLTIzNTUzNTg0OV19
 -->
