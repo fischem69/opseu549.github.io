@@ -7,8 +7,8 @@ use-site-title: true
 
 **Resources for members**
 
-- "The Collective Agreement" is our work contract. It's the most important document that spells out the working conditions, benefits and salaries\
-2015-2017 OPSEU Central -- Unified Agreement
+- "The Collective Agreement" is our work contract. It's the most important document that spells out the working conditions, benefits and salaries
+[2015-2017 OPSEU Central -- Unified Agreement](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf)
 [2018-2021 OPS Unified Extension Agreement](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf)(additional parts that were added in 2018)
 [Salary Schedule 2017-2021 Unified](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf)
 
