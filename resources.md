@@ -11,7 +11,7 @@ subtitle: Links to useful resources
 
 - The [owner's manual](https://opseu.org/information/owners-manual/12067/) gives a detailed overview of how OPSEU is organized.
 
-- The [OPSEU constitution](https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/) describes in detail how OPSEU is organized.
+- The [OPSEU constitution](https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/) describes in detail how OPSEU is governed.
 
 - ["inSolidarity"](https://opseu.org/solidarity/) - The OPSEU newsletter
 
