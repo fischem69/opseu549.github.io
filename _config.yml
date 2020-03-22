@@ -22,7 +22,7 @@ description: the local branch of OPSEU at the Ontario Science Centre
 navbar-links:
   About: "aboutme"
   Resources:
-    - 2015-2017 Collective Agreement: "http://deanattali.com/beautiful-jekyll/"
+    - 2015-2017 Collective Agreement: "https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf"
     - 2018-2021 Extension: "https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf"
     - Salary Schedule: "https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf"
   OPSEU: "http://opseu.org"
