@@ -18,6 +18,8 @@ subtitle: Links to useful resources
 
 - ["OPSEU Powertool"](https://opseu.org/wp-content/uploads/2015/04/2015-04_en_powertool.pdf) - a comprehensive resource meant for stewards, but useful for anyone interested in how to get things done at the local. 
 
+- The ["OPSEU Statement of Respect"](path/statement_of_respect) lists the rules of conduct for all OPSEU gatherings, big and small, in person and online.
+
 - OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
