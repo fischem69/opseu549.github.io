@@ -1,47 +1,57 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Who is the Local 549
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The OPSEU Local 549 is made up of:
+- the staff of the **Ontario Science Centre**
+- the staff of **Compass** that work in the cafeteria and the cafe at the front entrance
+- the staff of **Eurest** that clean the building
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
+**Officers of Local 549**
+Raj Ramlakhan - president
+Martin Fischer – vice president
+Chris Fenwick – 2nd vice president
+Walter Stoddard – chief steward
+Harry Jeganathan – treasurer
+Liona Davies - secretary
+ 
+**List of stewards of the Ontario Science Centre**
+Caitlin Carlisle
+Chris Fenwick
+David Braun
+David Sugarman
+David Yun
+Doug Carman
+Emma Holder
+Eva Lau
+Glenn McIntosh
+Haidar Furozuni
+Harry Jeganathan
+Ioanna Skarvelis
+Liona Davies
+Luzan Wray
+Marko Pashkovsky
+Martin Fischer
+Rajesh (Raj) Ramlakhan
+Simon Chang
+Walter Stoddard
+Zoe Fitzgerald
 
 **Resources for members**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-- ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working condidtions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf)(additional parts that were added in 2018). There is a separate [document with all salaries](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
+- ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working condidtions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf). Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
 
-*"The Collective Agreement" is our work contract. It's the most important document that spells out the working conditions, benefits and salaries
-[2015-2017 OPSEU Central -- Unified Agreement](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf)
-[2018-2021 OPS Unified Extension Agreement](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf)(additional parts that were added in 2018)
-[Salary Schedule 2017-2021 Unified](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf)
+- The [owner's manual](https://opseu.org/information/owners-manual/12067/) gives a detailed overview of how OPSEU is organized.
 
-*How OPSEU works -- the "owners manual"
-<https://opseu.org/information/owners-manual/12067/>
+- The [OPSEU constitution](https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/) - it describes in detail how OPSEU is organized.
 
-*The OPSEU constitution -- it describes how OPSEU is to be governed (e.g. how our local is organized)
-<https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/>
+- ["inSolidarity"](https://opseu.org/solidarity/) - The OPSEU newsletter
 
-*"inSolidarity" - The Newsletter for OPSEU stewards:
-<https://opseu.org/solidarity/>
+- ["OPSEU Powertool"](https://opseu.org/wp-content/uploads/2015/04/2015-04_en_powertool.pdf) - a comprehensive resource meant for stewards, but alos interesting for anyone who want to know more about how to get things done at the local. 
 
-*A comprehensive resource for stewards is OPSEU's powertool - interesting for anyone whow wants to know more about the work of a local:
-<https://opseu.org/wp-content/uploads/2015/04/2015-04_en_powertool.pdf>
+- OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
+- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employes staff that helps the Locals. Currently our staff representative is Christine Laverty. 
 
-*There are OPSEU events all the time:
-<https://opseu.org/events/>
-
-*OPSEU is divided into regions. We are part of region 5. Each region has staff that helps the locals. Our Region 5 staff representative is Christine Laverty:
-<claverty@opseu.org>
