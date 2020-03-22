@@ -10,12 +10,12 @@ The OPSEU Local 549 is made up of:
 - the staff of **Eurest** that clean the building
 
 **Officers of Local 549**
--Raj Ramlakhan - president
--Martin Fischer – vice president
--Chris Fenwick – 2nd vice president
--Walter Stoddard – chief steward
--Harry Jeganathan – treasurer
--Liona Davies - secretary
+- Raj Ramlakhan - president
+- Martin Fischer – vice president
+- Chris Fenwick – 2nd vice president
+- Walter Stoddard – chief steward
+- Harry Jeganathan – treasurer
+- Liona Davies - secretary
  
 **List of stewards of the Ontario Science Centre**
 -Caitlin Carlisle
