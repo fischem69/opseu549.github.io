@@ -4,12 +4,12 @@ title: About Us
 subtitle: Who is the Local 549
 ---
 
-The OPSEU Local 549 is made up of:
+**The OPSEU Local 549 is made up of:**
 - the staff of the **Ontario Science Centre**
 - the staff of **Compass** that work in the cafeteria and the cafe at the front entrance
 - the staff of **Eurest** that clean the building
 
-**Officers of Local 549**
+**Officers of Local 549** (elected for 2020/2021)
 - Raj Ramlakhan - president
 - Martin Fischer – vice president
 - Chris Fenwick – 2nd vice president
@@ -17,27 +17,27 @@ The OPSEU Local 549 is made up of:
 - Harry Jeganathan – treasurer
 - Liona Davies - secretary
  
-**List of stewards of the Ontario Science Centre**
--Caitlin Carlisle
--Chris Fenwick
--David Braun
--David Sugarman
--David Yun
--Doug Carman
--Emma Holder
--Eva Lau
--Glenn McIntosh
--Haidar Furozuni
--Harry Jeganathan
--Ioanna Skarvelis
--Liona Davies
--Luzan Wray
--Marko Pashkovsky
--Martin Fischer
--Rajesh (Raj) Ramlakhan
--Simon Chang
--Walter Stoddard
--Zoe Fitzgerald
+**List of stewards of the Ontario Science Centre** (elected for 2020/2021)
+- Caitlin Carlisle
+- Chris Fenwick
+- David Braun
+- David Sugarman
+- David Yun
+- Doug Carman
+- Emma Holder
+- Eva Lau
+- Glenn McIntosh
+- Haidar Furozuni
+- Harry Jeganathan
+- Ioanna Skarvelis
+- Liona Davies
+- Luzan Wray
+- Marko Pashkovsky
+- Martin Fischer
+- Rajesh (Raj) Ramlakhan
+- Simon Chang
+- Walter Stoddard
+- Zoe Fitzgerald
 
 **Resources for members**
 
