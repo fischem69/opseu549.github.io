@@ -18,6 +18,9 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 **Resources for members**
 
+- I rock a great mustache
+- I'm extremely loyal to my family
+
 *"The Collective Agreement" is our work contract. It's the most important document that spells out the working conditions, benefits and salaries
 [2015-2017 OPSEU Central -- Unified Agreement](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf)
 [2018-2021 OPS Unified Extension Agreement](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf)(additional parts that were added in 2018)
