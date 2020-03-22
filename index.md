@@ -7,7 +7,8 @@ published: true
 ---
 Welcome!
 
-How quickly times change!  We are all struggling to find ways to cope with this new situation. And some of us are struggling more. Compass, the company that runs our cafeteria and food services have laid off all workers. Eurest, the company that is in charge of cleaning the premises, has laid off all workers
+How quickly times change!  We are all struggling to find ways to cope with this new situation. And some of us are struggling more: 
+- All food service workers have been laid off. Compass, the company that runs our cafeteria and food services, emailed the not. Eurest, the company that is in charge of cleaning the premises, has laid off all workers
 
 
 
@@ -45,5 +46,5 @@ How quickly times change!  We are all struggling to find ways to cope with this 
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MDY2MzA4XX0=
+eyJoaXN0b3J5IjpbMTM4NjQzNTU1NV19
 -->
