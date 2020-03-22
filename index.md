@@ -7,9 +7,28 @@ published: true
 ---
 Welcome!
 
-These are trying times. 
+How quickly times change!  We are all struggling to find ways to cope with this new situation. And some of us are st
 
-We are all struggling to reorient ourselves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - The [OPSEU Local 549 Facebook group](https://www.facebook.com/groups/638743390217436/). A place for us to communicate and coordinate our efforts. Click on the "+ Join Group" button to apply - only OPSEU members will be granted access. 
 
 - ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working condidtions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf). Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
@@ -26,5 +45,5 @@ We are all struggling to reorient ourselves
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUyNzYwOTZdfQ==
+eyJoaXN0b3J5IjpbMTEyMDc0MjYzN119
 -->
