@@ -21,3 +21,6 @@ published: true
 - OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzY4NDQ1NzQ5XX0=
+-->
