@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: OPSEU Local 549
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: the local branch of OPSEU at the Ontario Science Centre
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,15 +20,16 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - 2015-2017 Collective Agreement: "http://deanattali.com/beautiful-jekyll/"
+    - 2018-2021 Extension: "https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf"
+    - Salary Schedule: "https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf"
+  OPSEU: "http://opseu.org"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/OPSEU-Logo.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
