@@ -249,6 +249,10 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
+          
+# the _pages directory contains pages other than post - keeping it out of the root directory
+# makes it more clean. 
+include: ['_pages']
 
 plugins:
   - jekyll-paginate
