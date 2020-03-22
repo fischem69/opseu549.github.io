@@ -17,7 +17,7 @@ How quickly times change!  We are all struggling to find ways to cope with this 
 - All food service workers have been laid off. Compass, the company that runs our cafeteria and food services, emailed the temporary lay-off notices on March 14.
 - Almost all cleaners haven bee laid off. Eurest, the company that is in charge of cleaning the premises of the Ontario Science Centre, notified their staff on March 16.
 
-
+If you have any ideas on how to help, please send an email to 
 
 
 
@@ -53,5 +53,5 @@ How quickly times change!  We are all struggling to find ways to cope with this 
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTUzNTg0OV19
+eyJoaXN0b3J5IjpbOTE3MjkwNjQyXX0=
 -->
