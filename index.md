@@ -5,7 +5,7 @@ subtitle: The union of the Ontario Science Centre staff
 use-site-title: true
 published: true
 ---
-*Sunday, March 22, 2020*
+*Sunday, March 22, 2020 - day 9 of the science centre closure*
 
 **Welcome, members of Local 549**
 
@@ -16,5 +16,5 @@ How quickly times change!  We are all struggling to find ways to cope with this 
 If you have ideas on how to help, please post them to our [OPSEU Local 549 Facebook group](https://www.facebook.com/groups/638743390217436/). A place for us to communicate and coordinate our efforts. If you haven't joined yet, click on the "+ Join Group" button to apply - only OPSEU members will be granted access. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzM0MDU0Nl19
+eyJoaXN0b3J5IjpbMTY4MDE4Nzg4Nl19
 -->
