@@ -45,13 +45,13 @@ subtitle: Who is the Local 549
 
 - The [owner's manual](https://opseu.org/information/owners-manual/12067/) gives a detailed overview of how OPSEU is organized.
 
-- The [OPSEU constitution](https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/) - it describes in detail how OPSEU is organized.
+- The [OPSEU constitution](https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/) describes in detail how OPSEU is organized.
 
 - ["inSolidarity"](https://opseu.org/solidarity/) - The OPSEU newsletter
 
-- ["OPSEU Powertool"](https://opseu.org/wp-content/uploads/2015/04/2015-04_en_powertool.pdf) - a comprehensive resource meant for stewards, but alos interesting for anyone who want to know more about how to get things done at the local. 
+- ["OPSEU Powertool"](https://opseu.org/wp-content/uploads/2015/04/2015-04_en_powertool.pdf) - a comprehensive resource meant for stewards, but useful for anyone interested in how to get things done at the local. 
 
 - OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
-- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employes staff that helps the Locals. Currently our staff representative is Christine Laverty. 
+- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty. 
 
