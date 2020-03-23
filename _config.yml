@@ -20,6 +20,8 @@ description: the local branch of OPSEU at the Ontario Science Centre
 
 # List of links in the navigation bar
 navbar-links:
+  COVID-19:
+    - OPSEU COVID-19 FAQ: "https://opseu.org/2019-novel-coronavirus-covid-19/"
   About Us: "aboutme"
   Resources:
     - Useful resources: "resources"
