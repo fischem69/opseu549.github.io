@@ -1,7 +1,7 @@
 ---
 layout: page
-title: COVID-19 related information
-subtitle: (that affect your employee of the Ontario Science Centre)
+title: COVID-19 information
+subtitle: (related to your rights as employee of the Ontario Science Centre)
 published: true
 ---
 
