@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19 related information
-subtitle: Rules of Conduct at all gathering (in person and online)
+subtitle: (as it relates to your rights as an employee of the ONtario Science Centre)
 published: true
 ---
 
