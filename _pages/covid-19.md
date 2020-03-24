@@ -1,7 +1,10 @@
 ---
 layout: page
-title: OPSEU Statement of Respect
+title: COVID-19 related information
 subtitle: Rules of Conduct at all gathering (in person and online)
+published: true
 ---
 
-<https://www.theglobeandmail.com/business/careers/career-advice/article-layoffs-salary-ei-and-more-your-coronavirus-and-employment/>
+COVID-19 and employment
+
+["Layoffs, salary, EI and more: Your coronavirus and employment questions answered (Globe and Mail, March 24, 2020"](https://www.theglobeandmail.com/business/careers/career-advice/article-layoffs-salary-ei-and-more-your-coronavirus-and-employment/)
