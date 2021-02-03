@@ -18,6 +18,7 @@ subtitle: Who is the Local 549
 - Zoe Fitzgerald - secretary
  
 **List of stewards of the Ontario Science Centre** (elected for 2020/2021)
+- Anthony Sword
 - Caitlin Carlisle
 - Chris Fenwick
 - David Braun
@@ -30,7 +31,6 @@ subtitle: Who is the Local 549
 - Haidar Furozuni
 - Harry Jeganathan
 - Ioanna Skarvelis
-- Liona Davies
 - Luzan Wray
 - Marko Pashkovsky
 - Martin Fischer
