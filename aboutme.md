@@ -15,7 +15,7 @@ subtitle: Who is the Local 549
 - Chris Fenwick – 2nd vice president
 - Walter Stoddard – chief steward
 - Harry Jeganathan – treasurer
-- Liona Davies - secretary
+- Zoe Fitzgerald - secretary
  
 **List of stewards of the Ontario Science Centre** (elected for 2020/2021)
 - Caitlin Carlisle
