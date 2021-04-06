@@ -19,10 +19,10 @@ subtitle: Who is the Local 549
  
 **List of stewards of the Ontario Science Centre** (elected for 2020/2021)
 - Anthony Sword
+- Athi Selvadurai
 - Caitlin Carlisle
 - Chris Fenwick
 - David Braun
-- David Sugarman
 - David Yun
 - Doug Carman
 - Emma Holder
