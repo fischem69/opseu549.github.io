@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Who is the Local 549
+subtitle: Who is the Local 549?
 ---
 
 **The OPSEU Local 549 is made up of:**
