@@ -39,6 +39,14 @@ subtitle: Who is the Local 549?
 - Walter Stoddard
 - Zoe Fitzgerald
 
+**Joint Health and Safety Committee members** (only worker members are listed here)
+- Anthony Sword
+- Ken Doyle (representing AMAPCEO workers)
+- Martin Fischer (co-chair)
+- Michael Leslie
+- Rocio Navarro
+
+
 **Resources for members**
 
 - ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working condidtions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf). Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
