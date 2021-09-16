@@ -17,7 +17,7 @@ Here are some of the most commonly-asked questions and answers about mandatory v
 
 **Discussion forum on private Local 549 Facebook group**
 
-Do you have ideas, suggestions, questions for your fellow members on how to help? Please post them to our [OPSEU Local 549 Facebook group](https://www.facebook.com/groups/638743390217436/). A place for us to communicate and coordinate our efforts. If you haven't joined yet, click on the "+ Join Group" button to apply - only OPSEU members will be granted access. 
+Do you have ideas, suggestions, questions for your fellow members? Please post them to our [OPSEU Local 549 Facebook group](https://www.facebook.com/groups/638743390217436/). A place for us to communicate and coordinate our efforts. If you haven't joined yet, click on the "+ Join Group" button to apply - only OPSEU members will be granted access. 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4MDE4Nzg4Nl19
