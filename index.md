@@ -27,7 +27,7 @@ Join us on September 27 to reflect, remember and recognize the ongoing effects o
 
 Location: on Zoom (a link will be provided after you register)
 
-For any questions or to register, please contact equity@opseu.org with your name and union number.
+For any questions or to register, please contact [equity@opseu.org](equity@opseu.org) with your name and union number.
 
 The deadline to register is Sunday, September 26th, 2021.
 
