@@ -23,9 +23,9 @@ subtitle: Who is the Local 549?
 - Caitlin Carlisle
 - Chris Fenwick
 - David Braun
-- David Yun
 - Doug Carman
 - Emma Holder
+- Emmerson Maxwell
 - Eva Lau
 - Glenn McIntosh
 - Haidar Furozuni
