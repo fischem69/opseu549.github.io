@@ -25,7 +25,7 @@ subtitle: Who is the Local 549?
 - David Braun
 - Doug Carman
 - Emma Holder
-- Emmerson Maxwell
+- Emerson Maxwell
 - Eva Lau
 - Glenn McIntosh
 - Haidar Furozuni
