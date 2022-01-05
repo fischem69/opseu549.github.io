@@ -24,7 +24,6 @@ subtitle: Who is the Local 549?
 - Chris Fenwick
 - David Braun
 - Doug Carman
-- Emma Holder
 - Emerson Maxwell
 - Eva Lau
 - Glenn McIntosh
