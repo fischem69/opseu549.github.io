@@ -18,9 +18,7 @@ subtitle: Who is the Local 549?
 - Zoe Fitzgerald - secretary
  
 **List of stewards of the Ontario Science Centre** (elected for 2020/2021)
-- Anthony Sword
 - Athi Selvadurai
-- Caitlin Carlisle
 - Chris Fenwick
 - David Braun
 - Doug Carman
@@ -40,6 +38,7 @@ subtitle: Who is the Local 549?
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
 - Anthony Sword
+- Chtistopher Miranda (representnig AMAPCEO workers)
 - Ken Doyle (representing AMAPCEO workers)
 - Ioanna Skarvelis
 - Martin Fischer (co-chair)
