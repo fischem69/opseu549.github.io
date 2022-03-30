@@ -22,4 +22,4 @@ subtitle: Links to useful resources
 
 - OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
-- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty.
+- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Adrian Cadawallader.
