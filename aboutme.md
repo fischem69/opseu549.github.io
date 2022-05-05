@@ -38,7 +38,9 @@ subtitle: Who is the Local 549?
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
 - Ken Doyle (representing AMAPCEO workers)
+- Emerson Maxwell
 - Ioanna Skarvelis
+- Luzan Wray
 - Martin Fischer (co-chair)
 - Michael Leslie
 - Rocio Navarro
