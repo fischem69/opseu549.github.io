@@ -25,26 +25,23 @@ subtitle: Who is the Local 549?
 - Emerson Maxwell
 - Eva Lau
 - Glenn McIntosh
-- Haidar Furozuni
 - Harry Jeganathan
 - Ioanna Skarvelis
-- Luzan Wray
 - Marko Pashkovsky
 - Martin Fischer
 - Rajesh (Raj) Ramlakhan
-- Simon Chang
 - Walter Stoddard
 - Zoe Fitzgerald
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
-- Ken Doyle (representing AMAPCEO workers)
+- Chris Miranda (AMAPCEO)
 - Emerson Maxwell
 - Ioanna Skarvelis
+- Ken Doyle ( AMAPCEO )
 - Luzan Wray
 - Martin Fischer (co-chair)
 - Michael Leslie
 - Rocio Navarro
-
 
 **Resources for members**
 
