@@ -6,31 +6,30 @@ subtitle: Who is the Local 549?
 
 **The OPSEU Local 549 is made up of:**
 - the staff of the **Ontario Science Centre**
-- the staff of **Compass** who work in the cafeteria and the cafe at the front entrance
+- the staff of **Dexterrra** who work in the cafeteria and the cafe at the front entrance
 - the staff of **Eurest** who clean the building
 
-**Officers of Local 549** (elected for 2020/2021)
-- Rajesh Ramlakhan - president
-- Martin Fischer – vice president
-- Chris Fenwick – 2nd vice president
+**Officers of Local 549** (elected for 2022/2023/2024)
+- Rajesh Ramlakhan - outgoing president
+- Zoe Fitzgerald – vice president
+- Martin Fischer – 2nd vice president
 - Walter Stoddard – chief steward
 - Harry Jeganathan – treasurer
-- Zoe Fitzgerald - secretary
+- Emerson Maxwell - secretary
  
-**List of stewards of the Ontario Science Centre** (elected for 2020/2021)
+**List of stewards of the Ontario Science Centre** (elected for 2022/2023/2024)
 - Athi Selvadurai
-- Chris Fenwick
-- David Braun
+- Bonnie VanToen
+- Chris Charuk
 - Doug Carman
 - Emerson Maxwell
-- Eva Lau
-- Glenn McIntosh
 - Harry Jeganathan
 - Ioanna Skarvelis
-- Marko Pashkovsky
+- Julie Jones
+- Mark Villanueava
 - Martin Fischer
-- Rajesh (Raj) Ramlakhan
 - Walter Stoddard
+- Ward Kennedy
 - Zoe Fitzgerald
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
@@ -38,7 +37,7 @@ subtitle: Who is the Local 549?
 - Emerson Maxwell
 - Ioanna Skarvelis
 - Ken Doyle ( AMAPCEO )
-- Luzan Wray
+- Luzan Wray ( AMAPCEO )
 - Martin Fischer (co-chair)
 - Michael Leslie
 - Rocio Navarro
