@@ -18,9 +18,12 @@ subtitle: Who is the Local 549?
 - Emerson Maxwell - secretary
  
 **List of stewards of the Ontario Science Centre** (elected for 2022/2023/2024)
+- Angel St. Pierre
+- Amal Juman Musthafa
 - Athi Selvadurai
 - Bonnie VanToen
 - Chris Charuk
+- David Braun
 - Doug Carman
 - Emerson Maxwell
 - Harry Jeganathan
@@ -28,6 +31,7 @@ subtitle: Who is the Local 549?
 - Julie Jones
 - Mark Villanueava
 - Martin Fischer
+- Victoria Gee
 - Walter Stoddard
 - Ward Kennedy
 - Zoe Fitzgerald
