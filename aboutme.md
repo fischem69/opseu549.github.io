@@ -40,7 +40,6 @@ subtitle: Who is the Local 549?
 - Chris Miranda (AMAPCEO)
 - Emerson Maxwell
 - Ioanna Skarvelis
-- Ken Doyle ( AMAPCEO )
 - Luzan Wray ( AMAPCEO )
 - Martin Fischer (co-chair)
 - Michael Leslie
