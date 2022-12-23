@@ -8,11 +8,11 @@ subtitle: Links to useful resources
 - The [OPSEU Youtube channel](https://www.youtube.com/channel/UCcj_y2pKS4U2jJtUuO4tFGw/videos) offers concise explanations and howtos. For example:
 {% include YoutubePlayer.html id="B6hmX8ChRwE" %}
 
-- ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working condidtions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf). Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
+- ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2022/11/2022-2024-OPSEU-SEFPO-Unified-Agreement.pdf) is our work contract. It spells out the working condidtions, benefits and salaries. Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
 
 - The ["owner's manual"](https://opseu.org/information/owners-manual/12067/) gives a detailed overview of how OPSEU is organized.
 
-- The [OPSEU constitution](https://opseu.org/information/tools-and-resources/ontario-public-service-employees-union-constitution-2019/92827/) describes in detail how OPSEU is governed.
+- The [OPSEU constitution](https://opseu.org/wp-content/uploads/2022/06/Final-2022-OPSEU-SEFPO-Constitution.pdf) describes in detail how OPSEU is governed.
 
 - ["inSolidarity"](https://opseu.org/solidarity/) - The OPSEU newsletter
 
