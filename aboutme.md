@@ -10,7 +10,6 @@ subtitle: Who is the Local 549?
 - the staff of **Eurest** who clean the building
 
 **Officers of Local 549** (elected for 2022/2023/2024)
-- Rajesh Ramlakhan - outgoing president
 - Zoe Fitzgerald – vice president
 - Martin Fischer – 2nd vice president
 - Walter Stoddard – chief steward
