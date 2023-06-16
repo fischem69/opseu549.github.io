@@ -6,8 +6,8 @@ subtitle: Who is the Local 549?
 
 **The OPSEU Local 549 is made up of:**
 - the staff of the **Ontario Science Centre**
-- the staff of **Dexterrra** who work in the cafeteria and the cafe at the front entrance
-- the staff of **Eurest** who clean the building
+- the staff of **Compass** who work in the cafeteria and the cafe at the front entrance
+- the staff of **Dexterra** who clean the building
 
 **Officers of Local 549** (elected for 2022/2023/2024)
 - Zoe Fitzgerald – vice president
