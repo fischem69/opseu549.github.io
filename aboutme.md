@@ -39,8 +39,6 @@ subtitle: Who is the Local 549?
 - Zoe Fitzgerald
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
-- Chris Miranda (AMAPCEO)
-- Emerson Maxwell
 - Ioanna Skarvelis
 - Luzan Wray ( AMAPCEO )
 - Martin Fischer (co-chair)
