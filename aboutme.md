@@ -21,15 +21,18 @@ subtitle: Who is the Local 549?
 - Angel St. Pierre
 - Athi Selvadurai
 - Bonnie VanToen
+- Caitlin Carlise
 - Chris Charuk
 - David Braun
 - Doug Carman
 - Emerson Maxwell
+- Kaitlin Town
 - Harry Jeganathan
 - Ioanna Skarvelis
 - Julie Jones
 - Mark Villanueava
 - Martin Fischer
+- Raluca Ellis
 - Victoria Gee
 - Walter Stoddard
 - Ward Kennedy
