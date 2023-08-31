@@ -42,9 +42,9 @@ subtitle: Who is the Local 549?
 **Joint Health and Safety Committee members** (only worker members are listed here)
 - Ioanna Skarvelis
 - Luzan Wray ( AMAPCEO )
-- Martin Fischer (co-chair)
+- Martin Fischer
 - Michael Leslie
-- Rocio Navarro
+- Rocio Navarro (co-chair)
 
 **Resources for members**
 
