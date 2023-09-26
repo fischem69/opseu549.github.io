@@ -26,7 +26,6 @@ subtitle: Who is the Local 549?
 - David Braun
 - Doug Carman
 - Emerson Maxwell
-- Eva Lau
 - Kaitlin Town
 - Harry Jeganathan
 - Ioanna Skarvelis
