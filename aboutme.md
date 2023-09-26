@@ -32,6 +32,7 @@ subtitle: Who is the Local 549?
 - Julie Jones
 - Mark Villanueava
 - Martin Fischer
+- Miguel Patricio
 - Raluca Ellis
 - Victoria Gee
 - Walter Stoddard
