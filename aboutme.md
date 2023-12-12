@@ -6,32 +6,38 @@ subtitle: Who is the Local 549?
 
 **The OPSEU Local 549 is made up of:**
 - the staff of the **Ontario Science Centre**
-- the staff of **Compass** who work in the cafeteria and the cafe at the front entrance
+- the staff of **Levi** who work in the cafeteria and the cafe at the front entrance
 - the staff of **Dexterra** who clean the building
 
-**Officers of Local 549** (elected for 2022/2023/2024)
-- Zoe Fitzgerald – vice president
-- Martin Fischer – 2nd vice president
+**Officers of Local 549** (elected for 2023/2024)
+- Martin Fischer - president
+- Raluca Ellis – vice president
+- Mark Villanueva – 2nd vice president
 - Walter Stoddard – chief steward
 - Harry Jeganathan – treasurer
 - Emerson Maxwell - secretary
  
-**List of stewards of the Ontario Science Centre** (elected for 2022/2023/2024)
+**List of stewards of the Ontario Science Centre** (elected for 2023/2024)
 - Amal Juman Musthafa
+- Amy Schacherl
 - Angel St. Pierre
 - Athi Selvadurai
 - Bonnie VanToen
 - Caitlin Carlise
+- Cortney Cunningham
 - Chris Charuk
 - David Braun
 - Doug Carman
 - Emerson Maxwell
-- Kaitlin Town
+- Emma Meadley
 - Harry Jeganathan
 - Ioanna Skarvelis
 - Julie Jones
+- Kaitlin Town
+- Laura Murray
 - Mark Villanueava
 - Martin Fischer
+- Melis Tokgoz
 - Miguel Patricio
 - Raluca Ellis
 - Victoria Gee
@@ -41,11 +47,12 @@ subtitle: Who is the Local 549?
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
 - Ioanna Skarvelis
-- Luzan Wray ( AMAPCEO )
+- Luzan Wray 
 - Martin Fischer
 - Michael Leslie
 - Rocio Navarro (co-chair)
-
+- Tammy McNeilly ( AMAPCEO )
+  
 **Resources for members**
 
 - ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working conditions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf). Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
