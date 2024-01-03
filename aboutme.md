@@ -46,6 +46,7 @@ subtitle: Who is the Local 549?
 - Zoe Fitzgerald
 
 **Joint Health and Safety Committee members** (only worker members are listed here)
+- Chris Charuk
 - Ioanna Skarvelis
 - Luzan Wray 
 - Martin Fischer
