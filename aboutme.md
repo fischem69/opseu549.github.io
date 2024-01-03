@@ -17,7 +17,7 @@ subtitle: Who is the Local 549?
 - Harry Jeganathan – treasurer
 - Emerson Maxwell - secretary
  
-**List of stewards of the Ontario Science Centre** (elected for 2023/2024)
+**Stewards of the Ontario Science Centre** (elected for 2023/2024)
 - Amal Juman Musthafa
 - Amy Schacherl
 - Angel St. Pierre
