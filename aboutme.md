@@ -32,6 +32,7 @@ subtitle: Who is the Local 549?
 - Emma Meadley
 - Harry Jeganathan
 - Ioanna Skarvelis
+- Jamie Kwan
 - Julie Jones
 - Kaitlin Town
 - Laura Murray
