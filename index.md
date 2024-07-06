@@ -5,7 +5,6 @@ subtitle: The union of the Ontario Science Centre staff
 use-site-title: true
 published: true
 ---
-<image: "/img/OPSEU_549.jpg">
 **Union Statement on Ontario Science Centre Closure**
 
 Our staff are devastated and outraged by the abrupt decision to close the Ontario Science Centre at 770 Don Mills Road. This cherished institution, a community cornerstone for over 50 years, is more than just a workplace; it’s a second home for many of us. 
