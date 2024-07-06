@@ -20,10 +20,8 @@ description: the local branch of OPSEU at the Ontario Science Centre
 
 # List of links in the navigation bar
 navbar-links:
-  COVID-19:
-    - OPSEU COVID-19 FAQ: "https://opseu.org/2019-novel-coronavirus-covid-19/"
-    - COVID-19 info: "_pages/covid-19"
-    - Mandatory Vaccines FAQ: "https://opseu.org/news/frequently-asked-questions-about-mandatory-vaccinations/132444/"
+  Media:
+    - Media Info and Links: "_pages/media"
   Resources:
     - Useful resources: "resources"
     - 2022-2024 Collective Agreement: "https://opseu.org/wp-content/uploads/2022/11/2022-2024-OPSEU-SEFPO-Unified-Agreement.pdf"
