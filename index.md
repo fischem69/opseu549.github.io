@@ -5,22 +5,16 @@ subtitle: The union of the Ontario Science Centre staff
 use-site-title: true
 published: true
 ---
-*December  2021*
+**Union Statement on Ontario Science Centre Closure**
 
-**OPSEU announces tentative agreement for a new contract**
+Our staff are devastated and outraged by the abrupt decision to close the Ontario Science Centre at 770 Don Mills Road. This cherished institution, a community cornerstone for over 50 years, is more than just a workplace; it’s a second home for many of us. 
 
-Our representatives have successfully negotiated a new contract (aka the Collective Agreement) with the province. In January, you will be invited to vote whether you accept it, and if a majority of members does, it will become our new contract for the next three years. Link to press release: https://opseu.org/.../opseu-sefpo-announces.../140580/.
+This sudden closure has left us feeling betrayed, and we demand transparency about the structural issues cited. We call for open communication and concrete plans to ensure job security for all staff. 
 
-Here are two paragraphs that describe the improvements:
+The Ontario Science Centre’s impact on families and students is profound, and we are committed to fighting for its future at its current location. We are grateful for the huge outpouring of public support from all corners of Ontario to re-open the building immediately, fix the roof, and keep the Science Centre in its current location for good.
 
-*Along with the annual one per cent wage increase, the deal also includes increases to paramedical benefits and a healthcare spending account. Other non-monetary improvements include seniority calculations for fixed-term employees, and job security language.*
+Our resolve is strong. We will not let this cherished institution be dismantled without a fight. We urge all stakeholders to join us in preserving this vital community resource.
 
-*The parties also agreed on new language that will allow the Diversity and Inclusion Committee to perform its review of the OPS Unified Collective Agreement under an equity lens, to help identify systemic barriers and changes needed within the agreement.*
-
-
-**Discussion forum on private Local 549 Facebook group**
-
-Do you have ideas, suggestions, questions for your fellow members? Please post them to our [OPSEU Local 549 Facebook group](https://www.facebook.com/groups/638743390217436/). A place for us to communicate and coordinate our efforts. If you haven't joined yet, click on the "+ Join Group" button to apply - only OPSEU members will be granted access. 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4MDE4Nzg4Nl19
