@@ -10,6 +10,10 @@ That same day, government officials told the media and the union that there woul
 
 *More details and analysis from various media sources can be found below:*
 
+CTV (July 9, 2024): [Ontario Science Centre's school cancels semesters for dozens of Grade 12 students](https://toronto.ctvnews.ca/ontario-science-centre-s-school-cancels-semesters-for-dozens-of-grade-12-students-1.6957440)
+
+Canadian Architect (July 9, 2024): [How to pay for repairing the Ontario Science Centre? Let’s start by using the money it’s taking to close it](https://www.canadianarchitect.com/how-to-pay-for-repairing-the-ontario-science-centre-lets-start-by-using-the-money-its-taking-to-close-and-demolish-it/)
+
 Canadian Architect (July 8, 2024): [The true cost of repairing the Ontario Science Centre is much, much less than what Infrastructure Ontario has been saying—and the proof is in its own documents](https://www.canadianarchitect.com/the-true-cost-of-repairing-the-ontario-science-centre-is-much-much-less-than-what-infrastructure-ontario-has-been-saying-and-the-proof-is-in-its-own-documents/)
 
 Globe and Mail (July 6, 2024): [Without the Ontario Science Centre in my backyard, more of my childhood would have been lost to screens](https://www.theglobeandmail.com/opinion/article-without-the-ontario-science-centre-in-my-backyard-more-of-my-childhood/)
