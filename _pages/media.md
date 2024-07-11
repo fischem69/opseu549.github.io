@@ -10,6 +10,10 @@ That same day, government officials told the media and the union that there woul
 
 *More details and analysis from various media sources can be found below:*
 
+CTV (July 10, 2024): [Ford calls Ontario Science Centre a 'decrepit building', says repairing it is 'foolish'](https://toronto.ctvnews.ca/ford-calls-ontario-science-centre-a-decrepit-building-says-repairing-it-is-foolish-1.6959202)
+
+CBC (July 10, 2024): [Ford calls Ontario Science Centre building 'a total mess' not worth fixing](https://www.cbc.ca/player/play/video/9.6444701)
+
 CTV (July 9, 2024): [Ontario Science Centre's school cancels semesters for dozens of Grade 12 students](https://toronto.ctvnews.ca/ontario-science-centre-s-school-cancels-semesters-for-dozens-of-grade-12-students-1.6957440)
 
 Canadian Architect (July 9, 2024): [How to pay for repairing the Ontario Science Centre? Let’s start by using the money it’s taking to close it](https://www.canadianarchitect.com/how-to-pay-for-repairing-the-ontario-science-centre-lets-start-by-using-the-money-its-taking-to-close-and-demolish-it/)
