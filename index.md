@@ -5,7 +5,7 @@ subtitle: The union of the Ontario Science Centre staff
 use-site-title: true
 published: true
 ---
-**Poll: Most Ontarians want the Ontario Science Centre to re-open and remain where it is
+**Poll: Most Ontarians want the Ontario Science Centre to re-open and remain where it is**
 
 September 2024
 
