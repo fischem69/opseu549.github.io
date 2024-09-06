@@ -24,5 +24,5 @@ subtitle: Links to useful resources
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Spencer Mitchell.
 
-- Poll:  Most Ontarians want the Ontario Science Centre to re-open and remain where it is! [Polling Data](https://opseu549.org/_data/Ontario_Science_Centre_Poll_September_2024.xlsx)
+- Poll:  Most Ontarians want the Ontario Science Centre to re-open and remain where it is! [Excel File with Polling Data](https://opseu549.org/_data/Ontario_Science_Centre_Poll_September_2024.xlsx)
 
