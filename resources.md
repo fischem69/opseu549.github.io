@@ -22,4 +22,7 @@ subtitle: Links to useful resources
 
 - OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
-- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Adrian Cadawallader.
+- OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Spencer Mitchell.
+
+- Poll:  Most Ontarians want the Ontario Science Centre to re-open and remain where it is! [Polling Data](https://opseu549.org/_data/Ontario_Science_Centre_Poll_September_2024.xlsx)
+
