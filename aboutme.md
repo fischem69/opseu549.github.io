@@ -19,10 +19,9 @@ subtitle: Who is the Local 549?
  
 **Stewards of the Ontario Science Centre** (elected for 2023/2024)
 - Amal Juman Musthafa
-- Amy Schacherl
-- Angel St. Pierre
 - Athi Selvadurai
 - Bonnie VanToen
+- Bruno Piticco
 - Caitlin Carlise
 - Cortney Cunningham
 - Chris Charuk
@@ -39,7 +38,6 @@ subtitle: Who is the Local 549?
 - Mark Villanueava
 - Martin Fischer
 - Melis Tokgoz
-- Miguel Patricio
 - Raluca Ellis
 - Victoria Gee
 - Walter Stoddard
