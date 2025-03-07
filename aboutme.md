@@ -4,52 +4,63 @@ title: About Us
 subtitle: Who is the Local 549?
 ---
 
-**The OPSEU Local 549 is made up of:**
-- the staff of the **Ontario Science Centre**
-- the staff of **Compass** who work in the cafeteria and the cafe at the front entrance
-- the staff of **Eurest** who clean the building
+**OPSEU/SEFPO Local 549 represents the majority of the staff of the Ontario Science Centre**
 
-**Officers of Local 549** (elected for 2020/2021)
-- Rajesh Ramlakhan - president
-- Martin Fischer – vice president
-- Chris Fenwick – 2nd vice president
-- Walter Stoddard – chief steward
-- Harry Jeganathan – treasurer
-- Zoe Fitzgerald - secretary
+**Officers of Local 549** (elected for 2023/2024)
+- Raluca Ellis – president
+- Melis Tokgoz - vice president
+- Zoe Fitzgerald – 2nd vice president
+- Jamie Kwon - Secretary
+- Kaitlin Town - Treasurer
+- Caitlin Carlisle - lead steward
+- Walter Stoddard – 2nd lead steward
+- Martin Fischer - President Emeritus
  
-**List of stewards of the Ontario Science Centre** (elected for 2020/2021)
-- Anthony Sword
+**Stewards of the Ontario Science Centre** (elected for 2023/2024)
 - Athi Selvadurai
+- Bonnie VanToen
+- Brent Jordan
+- Bruno Piticco
 - Caitlin Carlisle
-- Chris Fenwick
-- David Braun
-- Doug Carman
+- Chris Charuk
+- Donna Francis
 - Emerson Maxwell
-- Eva Lau
-- Glenn McIntosh
-- Haidar Furozuni
-- Harry Jeganathan
-- Ioanna Skarvelis
+- Jamie Kwan
+- Jessica Shearer
+- Joleen Sadler
+- Laura Murray
 - Luzan Wray
-- Marko Pashkovsky
+- Mark Villanueva
 - Martin Fischer
-- Rajesh (Raj) Ramlakhan
-- Simon Chang
+- Melis Tokgoz
+- Mireille Mouscardy
+- Raluca Ellis
+- Rocio Navarro
 - Walter Stoddard
 - Zoe Fitzgerald
 
-**Joint Health and Safety Committee members** (only worker members are listed here)
-- Anthony Sword
-- Ken Doyle (representing AMAPCEO workers)
-- Ioanna Skarvelis
-- Martin Fischer (co-chair)
-- Michael Leslie
-- Rocio Navarro
 
+**Joint Health and Safety Committee members** (only OPSEU worker members are listed here)
 
+**For Harbourfront Centre:**
+- Cortney Cunningham
+- Rala Beni-Asaf
+
+**For Sherway Gardens:**
+- Chris Charuk (worker co-chair)
+- Duck Soo Chang
+- Laura Murray
+- Luzan Wray
+
+**For All Other Locations:**
+- Chris Charuk 
+- Martin Fischer
+- Rocio Navarro (worker co-chair)
+
+  
 **Resources for members**
 
-- ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2016/06/2015-2017_opseu_central_unified_agreement_-_final.pdf) is our work contract. It spells out the working conditions, benefits and salaries. It was extended in 2018 and [some additional aspects were added](https://opseu.org/wp-content/uploads/2018/05/2018-2021_ops_unified_extension_agreement.pdf). Our salaries are listed in a [separate document](https://opseu.org/wp-content/uploads/2019/05/copy_of_opseu_salary_schedule_2017-2021_unified_send.pdf).
+- ["The Collective Agreement"](https://opseu.org/wp-content/uploads/2022/11/2022-2024-OPSEU-SEFPO-Unified-Agreement.pdf) is our work contract. It spells out the working conditions, benefits and salaries. 
 
 - The [owner's manual](https://opseu.org/information/owners-manual/12067/) gives a detailed overview of how OPSEU is organized.
 
@@ -62,4 +73,3 @@ subtitle: Who is the Local 549?
 - OPSEU organizes a [range of events](https://opseu.org/events/). Look for "educationals" of Region 5 - they are trainings that are available to all of us.
 
 - OPSEU is divided into regions. We are part of region 5. Each region has its own offices and employs staff to help the locals. Currently our staff representative is Christine Laverty. 
-
