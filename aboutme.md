@@ -4,54 +4,59 @@ title: About Us
 subtitle: Who is the Local 549?
 ---
 
-**The OPSEU Local 549 is made up of:**
-- the staff of the **Ontario Science Centre**
-- the staff of **Levi** who work in the cafeteria and the cafe at the front entrance
-- the staff of **Dexterra** who clean the building
+**OPSEU/SEFPO Local 549 represents the majority of the staff of the Ontario Science Centre**
 
 **Officers of Local 549** (elected for 2023/2024)
-- Martin Fischer - president
-- Raluca Ellis – vice president
-- Mark Villanueva – 2nd vice president
-- Walter Stoddard – chief steward
-- Harry Jeganathan – treasurer
-- Emerson Maxwell - secretary
+- Raluca Ellis – president
+- Melis Tokgoz - vice president
+- Zoe Fitzgerald – 2nd vice president
+- Jamie Kwon - Secretary
+- Kaitlin Town - Treasurer
+- Caitlin Carlisle - lead steward
+- Walter Stoddard – 2nd lead steward
+- Martin Fischer - President Emeritus
  
 **Stewards of the Ontario Science Centre** (elected for 2023/2024)
-- Amal Juman Musthafa
 - Athi Selvadurai
 - Bonnie VanToen
+- Brent Jordan
 - Bruno Piticco
-- Caitlin Carlise
-- Cortney Cunningham
+- Caitlin Carlisle
 - Chris Charuk
-- David Braun
-- Doug Carman
+- Donna Francis
 - Emerson Maxwell
-- Emma Meadley
-- Harry Jeganathan
-- Ioanna Skarvelis
 - Jamie Kwan
-- Julie Jones
-- Kaitlin Town
+- Jessica Shearer
+- Joleen Sadler
 - Laura Murray
-- Mark Villanueava
+- Luzan Wray
+- Mark Villanueva
 - Martin Fischer
 - Melis Tokgoz
+- Mireille Mouscardy
 - Raluca Ellis
-- Victoria Gee
+- Rocio Navarro
 - Walter Stoddard
-- Ward Kennedy
 - Zoe Fitzgerald
 
-**Joint Health and Safety Committee members** (only worker members are listed here)
-- Chris Charuk
-- Ioanna Skarvelis
-- Luzan Wray 
+
+**Joint Health and Safety Committee members** (only OPSEU worker members are listed here)
+
+**For Harbourfront Centre:**
+- Cortney Cunningham
+- Rala Beni-Asaf
+
+**For Sherway Gardens:**
+- Chris Charuk (worker co-chair)
+- Duck Soo Chang
+- Laura Murray
+- Luzan Wray
+
+**For All Other Locations:**
+- Chris Charuk 
 - Martin Fischer
-- Michael Leslie
-- Rocio Navarro (co-chair)
-- Tammy McNeilly ( AMAPCEO )
+- Rocio Navarro (worker co-chair)
+
   
 **Resources for members**
 
